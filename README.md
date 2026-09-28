@@ -1,5 +1,5 @@
 # practice-git
-trying again to practice collaborative git without problems
+trying again to practice collaborative git without problems (for class on 10/5 or 10/7)
 
 0. Make sure to accept the collaboration invite to this repository.
 1. Make a new R project from Version Control based on this link. This should be in a folder called practice-git that is *not* nested in any other class folder. I recommend putting this on your Desktop or in your Documents.
